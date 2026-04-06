@@ -48,7 +48,7 @@
 
 ### At a glance
 
-* **3+ years** in Full Stack Development; **~2 years** in Cloud & DevOps — AWS infrastructure, Docker, CI/CD, and production incident response
+* **~2 years** in Cloud & DevOps; **3+ years** in Full Stack Development — AWS infrastructure, Docker, CI/CD, and production incident response
 * Provisioned **5 AWS environments from scratch** — VPC, EC2, ECS, IAM, S3, CloudWatch
 * Deployed & maintained **8+ production applications** across the full lifecycle: VPC design to containerisation, monitoring, and rollback
 
@@ -132,7 +132,7 @@
 ### Impact & activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainjafri4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=zainjafri4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=10" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zainjafri4&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=2C5364&currStreakLabel=2C5364&border_radius=10" />
 </p>
 
