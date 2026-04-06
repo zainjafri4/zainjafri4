@@ -132,7 +132,7 @@
 ### Impact & activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-weld-iota-73.vercel.app/api?username=zainjafri4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-beige-two-17.vercel.app/api?username=zainjafri4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=10" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zainjafri4&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=2C5364&currStreakLabel=2C5364&border_radius=10" />
 </p>
 
