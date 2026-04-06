@@ -8,7 +8,7 @@
 
 </div>
 
-<h3 align="center">Cloud & DevOps Engineer · AWS · Terraform · Docker · CI/CD @ <strong>DeveloperTag</strong></h3>
+<h3 align="center">Cloud & DevOps Engineer · AWS · Terraform · Docker · CI/CD · Linux</h3>
 
 <p align="center">
   <a href="https://zain-portfolio-website-five.vercel.app/">Portfolio</a> ·
