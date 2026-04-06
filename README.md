@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Zain%20Raza%20Jafri&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20CI%2FCD%20%7C%20Docker&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Zain%20Raza%20Jafri&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Terraform%20%7C%20CI%2FCD%20%7C%20Docker&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
@@ -11,6 +11,7 @@
 <h3 align="center">Cloud & DevOps Engineer · AWS · Terraform · Docker · CI/CD @ <strong>DeveloperTag</strong></h3>
 
 <p align="center">
+  <a href="https://zain-portfolio-website-five.vercel.app/">Portfolio</a> ·
   <a href="https://linkedin.com/in/zainjafri4">LinkedIn</a> ·
   <a href="https://github.com/zainjafri4">GitHub</a> ·
   <a href="mailto:zainjafri4@gmail.com">Email</a>
@@ -47,7 +48,7 @@
 
 ### At a glance
 
-* **3+ years** building and operating production systems across AWS, Docker, CI/CD, and Node.js backends
+* **3+ years** in Full Stack Development; **~2 years** in Cloud & DevOps — AWS infrastructure, Docker, CI/CD, and production incident response
 * Provisioned **5 AWS environments from scratch** — VPC, EC2, ECS, IAM, S3, CloudWatch
 * Deployed & maintained **8+ production applications** across the full lifecycle: VPC design to containerisation, monitoring, and rollback
 
@@ -114,6 +115,11 @@
 |---|---|---|---|
 | **ChatHub** | Production MERN real-time chat — Socket.io messaging, JWT auth with refresh token rotation, file uploads, group chats, deployed on AWS ECS with full CI/CD, Terraform IaC, Prometheus metrics, and Nginx reverse proxy | MERN · Socket.io · GitHub Actions · ECS · Terraform · Nginx · Prometheus | [Public](https://github.com/zainjafri4) |
 | **E-Commerce Platform** | Full-featured e-commerce backend — product catalog, cart, order processing, JWT auth — deployed on ECS via AWS Pipeline | Node.js · Express.js · MongoDB · JWT · ECS · AWS Pipeline | [Public](https://github.com/zainjafri4) |
+| **AWS Infrastructure** | Three production-pattern AWS architectures — VPC with bastion host and NAT Gateway, ALB + EC2 target groups across AZs, and serverless REST API with Lambda + DynamoDB | AWS · VPC · EC2 · ALB · Lambda · DynamoDB · IAM | [Public](https://github.com/zainjafri4/AWS-Infrastructure-Projects) |
+| **Terraform EC2 + NGINX** | Fully automated EC2 deployment — Terraform provisions infrastructure, cloud-init configures NGINX at boot; zero manual steps after terraform apply; SSH locked to single IP | Terraform · AWS EC2 · cloud-init · NGINX | [Public](https://github.com/zainjafri4/Terraform-AWS-EC2-Nginx) |
+| **Docker Flask + Redis** | Multi-container Flask + Redis visit counter with Docker Compose — service health checks, AOF data persistence, environment-variable-driven config, lean python:3.12-slim image | Docker · Flask · Redis · Docker Compose | [Public](https://github.com/zainjafri4/Docker-Flask-Redis) |
+| **Networking + Route 53** | NGINX web server on EC2 served via a custom domain — Elastic IP for DNS stability, Route 53 A record at the apex domain, verified with nslookup and curl | AWS · EC2 · NGINX · Route 53 · Elastic IP | [Public](https://github.com/zainjafri4/Networking-Nginx-EC2-Route53) |
+| **Linux CLI + CTF** | 30 solved OverTheWire Bandit CTF levels across file permissions, SSH, netcat, OpenSSL, cron scripting, and privilege escalation — plus a DevOps-focused CLI reference guide | Linux · Bash · SSH · CTF | [Public](https://github.com/zainjafri4/Linux-CLI) |
 | **Max HRM** | Monolithic multi-tenant HRM system serving thousands of enterprise users across multiple branches | Node.js · REST APIs · Socket.io · RBAC · Multi-tenant | 🔒 Internal |
 | **Max Invoice** | Microservice multi-tenant invoicing system | Node.js · Microservices · Multi-tenant | 🔒 Internal |
 | **Max Inventory** | Microservice multi-tenant inventory management | Node.js · Microservices · Multi-tenant | 🔒 Internal |
@@ -127,7 +133,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zainjafri4&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=10" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=zainjafri4&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=2C5364&currStreakLabel=2C5364&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zainjafri4&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=2C5364&currStreakLabel=2C5364&border_radius=10" />
 </p>
 
 <p align="center">
