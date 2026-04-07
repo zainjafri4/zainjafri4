@@ -2,14 +2,14 @@
     <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#ffffff" stroke="#d0d7de"/>
     
     <!-- Header -->
-    <text x="25" y="35" fill="#24292f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600">Abdul Aziz's GitHub Stats</text>
+    <text x="25" y="35" fill="#24292f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600">Zain Raza Jafri's GitHub Stats</text>
     <rect x="400" y="20" width="70" height="20" rx="10" fill="#0969da"/>
-    <text x="435" y="32" fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">Rank B+</text>
+    <text x="435" y="32" fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle">Rank B</text>
     
     <!-- Stats Grid -->
     <g fill="#24292f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
       <!-- Row 1 -->
-      <text x="25" y="75" font-size="14" font-weight="600">24</text>
+      <text x="25" y="75" font-size="14" font-weight="600">0</text>
       <text x="25" y="90" font-size="12" fill="#656d76">Total Stars Earned</text>
       
       <text x="175" y="75" font-size="14" font-weight="600">575</text>
@@ -22,10 +22,10 @@
       <text x="25" y="120" font-size="14" font-weight="600">1</text>
       <text x="25" y="135" font-size="12" fill="#656d76">Total Issues</text>
       
-      <text x="175" y="120" font-size="14" font-weight="600">65</text>
+      <text x="175" y="120" font-size="14" font-weight="600">17</text>
       <text x="175" y="135" font-size="12" fill="#656d76">Contributed to (last year)</text>
       
-      <text x="350" y="120" font-size="14" font-weight="600">248</text>
+      <text x="350" y="120" font-size="14" font-weight="600">79</text>
       <text x="350" y="135" font-size="12" fill="#656d76">Followers</text>
     </g>
     
